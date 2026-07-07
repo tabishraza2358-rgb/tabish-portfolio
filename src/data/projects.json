@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "client": "Northwind Apparel",
+    "category": "Paid Social + Meta Ads",
+    "summary": "Rebuilt the Meta ad account from scratch, fixed a leaky checkout funnel, and scaled spend once ROAS held above target for three straight weeks.",
+    "metrics": [
+      { "label": "ROAS", "value": "4.8x" },
+      { "label": "CTR", "value": "3.1%" },
+      { "label": "CPA", "value": "-38%" }
+    ],
+    "tags": ["Meta Ads", "Funnel CRO", "Creative Testing"],
+    "year": "2025",
+    "image": "/projects/s1.png"
+  },
+  {
+    "id": 2,
+    "client": "Solace Skincare",
+    "category": "SEO + Content Strategy",
+    "summary": "Rebuilt the site's information architecture around buyer intent, shipped 40 pillar pages, and cleared a manual penalty holding back organic growth.",
+    "metrics": [
+      { "label": "Organic Traffic", "value": "+212%" },
+      { "label": "Keywords Ranked", "value": "1,340" },
+      { "label": "DA", "value": "+18" }
+    ],
+    "tags": ["Technical SEO", "Content", "Link Building"],
+    "year": "2025",
+    "image": "/projects/s2.png"
+  },
+  {
+    "id": 3,
+    "client": "Fenwick & Rae",
+    "category": "Email + Lifecycle Marketing",
+    "summary": "Mapped the full customer lifecycle and replaced generic blasts with 9 automated flows triggered on real behavior, not send-day habit.",
+    "metrics": [
+      { "label": "Revenue / Email", "value": "+65%" },
+      { "label": "List Growth", "value": "+29%" },
+      { "label": "Open Rate", "value": "48%" }
+    ],
+    "tags": ["Klaviyo", "Segmentation", "Automation"],
+    "year": "2024",
+    "image": "/projects/s3.png"
+  },
+  {
+    "id": 4,
+    "client": "Orbit Fitness App",
+    "category": "Performance Marketing",
+    "summary": "Ran a cross-channel launch across Google, TikTok, and Apple Search Ads to hit install targets ahead of the Series A demo day.",
+    "metrics": [
+      { "label": "Installs", "value": "82K" },
+      { "label": "CPI", "value": "-44%" },
+      { "label": "D30 Retention", "value": "31%" }
+    ],
+    "tags": ["UA Strategy", "TikTok Ads", "ASO"],
+    "year": "2024",
+    "image": "/projects/s4.png"
+  },
+  {
+    "id": 5,
+    "client": "Orbit Fitness App",
+    "category": "Performance Marketing",
+    "summary": "Ran a cross-channel launch across Google, TikTok, and Apple Search Ads to hit install targets ahead of the Series A demo day.",
+    "metrics": [
+      { "label": "Installs", "value": "82K" },
+      { "label": "CPI", "value": "-44%" },
+      { "label": "D30 Retention", "value": "31%" }
+    ],
+    "tags": ["UA Strategy", "TikTok Ads", "ASO"],
+    "year": "2024",
+    "image": "/projects/s5.png"
+  },
+  {
+    "id": 6,
+    "client": "Orbit Fitness App",
+    "category": "Performance Marketing",
+    "summary": "Ran a cross-channel launch across Google, TikTok, and Apple Search Ads to hit install targets ahead of the Series A demo day.",
+    "metrics": [
+      { "label": "Installs", "value": "82K" },
+      { "label": "CPI", "value": "-44%" },
+      { "label": "D30 Retention", "value": "31%" }
+    ],
+    "tags": ["UA Strategy", "TikTok Ads", "ASO"],
+    "year": "2024",
+    "image": "/projects/s6.png"
+  },
+  {
+    "id": 7,
+    "client": "Orbit Fitness App",
+    "category": "Performance Marketing",
+    "summary": "Ran a cross-channel launch across Google, TikTok, and Apple Search Ads to hit install targets ahead of the Series A demo day.",
+    "metrics": [
+      { "label": "Installs", "value": "82K" },
+      { "label": "CPI", "value": "-44%" },
+      { "label": "D30 Retention", "value": "31%" }
+    ],
+    "tags": ["UA Strategy", "TikTok Ads", "ASO"],
+    "year": "2024",
+    "image": "/projects/s7.png"
+  },
+  {
+    "id": 8,
+    "client": "Orbit Fitness App",
+    "category": "Performance Marketing",
+    "summary": "Ran a cross-channel launch across Google, TikTok, and Apple Search Ads to hit install targets ahead of the Series A demo day.",
+    "metrics": [
+      { "label": "Installs", "value": "82K" },
+      { "label": "CPI", "value": "-44%" },
+      { "label": "D30 Retention", "value": "31%" }
+    ],
+    "tags": ["UA Strategy", "TikTok Ads", "ASO"],
+    "year": "2024",
+    "image": "/projects/s8.png"
+  },
+  {
+    "id": 9,
+    "client": "Orbit Fitness App",
+    "category": "Performance Marketing",
+    "summary": "Ran a cross-channel launch across Google, TikTok, and Apple Search Ads to hit install targets ahead of the Series A demo day.",
+    "metrics": [
+      { "label": "Installs", "value": "82K" },
+      { "label": "CPI", "value": "-44%" },
+      { "label": "D30 Retention", "value": "31%" }
+    ],
+    "tags": ["UA Strategy", "TikTok Ads", "ASO"],
+    "year": "2024",
+    "image": "/projects/s9.png"
+  }
+]

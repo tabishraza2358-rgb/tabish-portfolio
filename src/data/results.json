@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Monthly Overview — Sessions vs. Conversions",
+    "period": "All channels · trailing 12 months",
+    "image": "/results/p1.png"
+  },
+  {
+    "id": 2,
+    "title": "Overall ROAS by Channel",
+    "period": "Blended return · last quarter",
+    "image": "/results/p2.png"
+  },
+  {
+    "id": 3,
+    "title": "Ad Spend vs. Revenue",
+    "period": "12-week rolling window · all paid channels",
+    "image": "/results/p3.png"
+  },
+  {
+    "id": 4,
+    "title": "Funnel Conversion Rates",
+    "period": "Average across active campaigns · last 90 days",
+    "image": "/results/p4.png"
+  }
+]

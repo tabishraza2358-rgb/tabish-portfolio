@@ -1,0 +1,158 @@
+{
+  "profile": {
+    "name": "Tabish raza",
+    "role": "Digital Marketing Strategist",
+    "tagline": "I turn ad budgets into pipelines and pipelines into revenue.",
+    "location": "Faisalabad, Pakistan",
+    "email": "tabishraza2358@gmail.com",
+    "phone": "+92 304 1931065",
+    "resumeUrl": "/cv.pdf",
+    "socials": {
+      "linkedin": "www.linkedin.com/in/tabishraza23"
+    }
+  },
+  "ticker": [
+    {
+      "label": "Avg. ROAS delivered",
+      "value": "4.6x"
+    },
+    {
+      "label": "Ad spend managed",
+      "value": "$2.1M+"
+    },
+    {
+      "label": "Organic traffic growth",
+      "value": "+184%"
+    },
+    {
+      "label": "Campaigns launched",
+      "value": "97"
+    },
+    {
+      "label": "Client retention",
+      "value": "92%"
+    },
+    {
+      "label": "Markets served",
+      "value": "6"
+    }
+  ],
+  "about": {
+    "heading": "I read dashboards the way most people read headlines.",
+    "paragraphs": [
+      "For the last 6 years I've sat at the intersection of creative and analytics — the person who can write the hook and defend the CAC in the same meeting.",
+      "I've run growth for a Series A fitness app, rebuilt SEO for a skincare brand recovering from a penalty, and managed six-figure monthly ad spend across Meta, Google, and TikTok.",
+      "My approach is unglamorous: fix the leaks before you pour in more budget, test one variable at a time, and report numbers the client can act on — not vanity metrics."
+    ],
+    "stats": [
+      {
+        "value": "3+",
+        "label": "Years in performance marketing"
+      },
+      {
+        "value": "10+",
+        "label": "Brands worked with"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Ad spend managed"
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "Paid Media",
+      "description": "Meta, Google, and TikTok campaigns built around a measurable funnel — not just impressions.",
+      "deliverables": [
+        "Meta Ad's",
+        "Paid Compaign",
+        "Account audits",
+        "Creative testing",
+        "Budget scaling"
+      ]
+    },
+    {
+      "title": "SEO & Content",
+      "description": "Technical fixes and content built around what your buyers are actually searching for.",
+      "deliverables": [
+        "Website Audit",
+        "Technical Audits",
+        "Keyword Strategy",
+        "Content Briefs",
+        "Link Outreach"
+      ]
+    },
+    {
+      "title": "Social Media Growth",
+      "description": "Grow your brand with engaging content, consistent posting, and data-driven strategies that attract followers and turn them into customers.",
+      "deliverables": [
+        "Organic + Paid Growth",
+        "Content Strategy",
+        "Social Media Management",
+        "Post & Reel Creation",
+        "Performance Analytics"
+      ]
+    },
+    {
+      "title": "Analytics & Reporting",
+      "description": "Dashboards that show what changed, why, and what to do next — built for founders, not analysts.",
+      "deliverables": [
+        "GA4 setup",
+        "Attribution modeling",
+        "Looker dashboards",
+        "Monthly reporting"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Meta Ads Manager",
+      "level": 95
+    },
+    {
+      "name": "Google Ads / SEM",
+      "level": 90
+    },
+    {
+      "name": "SEO & Technical Audits",
+      "level": 85
+    },
+    {
+      "name": "Email Marketing",
+      "level": 88
+    },
+    
+    {
+      "name": "Content Strategy (With Ai)",
+      "level": 80
+    }
+  ],
+  "tools": [
+    "Meta Business Suite",
+    "Google Ads",
+    "SEMrush",
+    "Looker Studio",
+    "TikTok Ads Manager",
+    "Gemni",
+    "Chat GPT",
+    "Claud Ai",
+    "Google Flow"
+  ],
+  "testimonials": [
+    {
+      "name": "Sara Ahmed",
+      "role": "Founder, Solace Skincare",
+      "quote": "He found the technical issues our last two agencies missed and our organic traffic finally started moving in the right direction."
+    },
+    {
+      "name": "Daniyal Raza",
+      "role": "CEO, Orbit Fitness App",
+      "quote": "Gave us a straight answer every time — including when a channel wasn't working. That honesty is rare and it saved us real money."
+    },
+    {
+      "name": "Meher Iqbal",
+      "role": "Marketing Lead, Fenwick & Rae",
+      "quote": "The lifecycle rebuild alone paid for the entire engagement within the first quarter."
+    }
+  ]
+}
