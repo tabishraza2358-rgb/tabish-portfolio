@@ -8,7 +8,14 @@
   transition: padding 0.25s ease, background 0.25s ease, border-color 0.25s ease;
   border-bottom: 1px solid transparent;
 }
-
+.close_icon{
+  background-color: red;
+  color: white;
+  border: 0;
+ border-radius: 50px;
+ padding: 2px 5px; 
+ margin-left: 30px;
+}
 .header--scrolled {
   padding: 14px 0;
   background: rgba(16, 19, 27, 0.86);
@@ -85,10 +92,15 @@
   background: var(--text-primary);
   border-radius: 2px;
 }
-
+.box{
+  display: none !important;
+}
 @media (max-width: 860px) {
   .header__toggle {
     display: flex;
+  }
+  .box{
+    display: flex !important;
   }
 
   .header__nav {
