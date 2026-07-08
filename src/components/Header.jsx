@@ -32,6 +32,15 @@ function Header() {
         </a>
 
         <nav className={`header__nav ${menuOpen ? 'header__nav--open' : ''}`}>
+          <div className='box' style={{display:"flex", alignItems:"center",justifyContent:"space-between"}}>
+            <h1>Tabish raza</h1>
+       <button
+          className="close_icon"
+          aria-label={menuOpen ? 'Close menu' : 'Open menu'}
+          aria-expanded={menuOpen}
+          onClick={() => setMenuOpen((open) => !open)}
+        >✖</button>
+          </div>
           {NAV_LINKS.map((link) => (
             <a key={link.href} href={link.href} onClick={closeMenu}>
               {link.label}
@@ -40,6 +49,7 @@ function Header() {
           <a href="#contact" className="btn btn-primary header__cta" onClick={closeMenu}>
             Let&apos;s talk
           </a>
+          
         </nav>
 
         <button
