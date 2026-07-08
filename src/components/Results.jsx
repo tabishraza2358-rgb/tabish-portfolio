@@ -19,7 +19,7 @@ function Results() {
       <div className="container">
         <div className="section-head">
           <span className="eyebrow">Results</span>
-          <h2>Monthly &amp; overall performance</h2>
+          <h2>Real Campaigns. Real Results. Real Growth.</h2>
           
         </div>
 
