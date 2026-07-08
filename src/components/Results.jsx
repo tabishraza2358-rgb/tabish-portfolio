@@ -36,10 +36,7 @@ function Results() {
                 <img src={result.image} alt={result.title} loading="lazy" />
                 <span className="results__hint">View full graph ↗</span>
               </div>
-              <div className="results__meta">
-                <h3 style={{color:"white"}}>{result.title}</h3>
-                <span className="results__period">{result.period}</span>
-              </div>
+              
             </button>
           ))}
         </div>
