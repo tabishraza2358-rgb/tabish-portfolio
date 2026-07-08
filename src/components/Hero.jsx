@@ -12,7 +12,7 @@ function Hero() {
         <div className="hero__copy">
           <span className="eyebrow">{profile.role}</span>
           <h1 className="hero__headline">
-            I turn ad spend into a number the finance team stops arguing with.
+           I turn ad spend into revenue everyone can measure.
           </h1>
           <p className="hero__tagline">{profile.tagline}</p>
 
