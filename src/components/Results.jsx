@@ -20,6 +20,7 @@ function Results() {
         <div className="section-head">
           <span className="eyebrow">Results</span>
           <h2>Real Campaigns. Real Results. Real Growth.</h2>
+          <p>Performance highlights from Meta Ads campaigns, showcasing lead generation, optimization strategies, and measurable outcomes.</p>
           
         </div>
 
