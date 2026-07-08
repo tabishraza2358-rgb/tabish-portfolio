@@ -20,6 +20,7 @@ function Projects() {
         <div className="section-head">
           <span className="eyebrow">Selected Social Meida Post's</span>
           <h2>High Engaging Content</h2>
+          <p>Social media graphics, branding materials, and digital creatives designed to increase engagement and strengthen brand identity.</p>
          
         </div>
 
